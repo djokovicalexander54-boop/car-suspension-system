@@ -9,4 +9,5 @@ $acceleration=x''=d^2x/dt^2$
 and
 $speed=x'=dx/dt$
 ![this diagrams](suspension_system.gif)
+
 we can see that mercedes benz it reaches equilibrium faster but stiff also rolls royce it reaches equilibrium slower but soft.
