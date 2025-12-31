@@ -8,4 +8,4 @@ that
 $acceleration=x''=d^2x/dt^2$
 and
 $speed=x'=dx/dt$
-![this diagrams](car_suspension_system.gif)
+![this diagrams](suspension_system.gif)
